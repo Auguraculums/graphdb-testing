@@ -1,6 +1,11 @@
 Graph Package Testing
 =====================
 
+[A Performance Evaluation of Open Source Graph Databases
+Robert McColl David Ediger Jason Poovey Dan Campbell David A. Bader
+Georgia Institute of Technology
+](http://www.stingergraph.com/data/uploads/papers/ppaa2014.pdf)
+
 The goal of this project is to benchmark various graph databases, engines, datastructures, 
 and data stores. The packages below will be measured in terms of performance on these graph 
 algorithms which are all fairly basic and cover a reasonable range of styles (data structure
